@@ -8,5 +8,5 @@
      "layoutResId" : a reference to a keyboard layout XML. See res/xml/qwerty.xml
      -->
 	<Keyboard nameResId="@string/keyboard_name" iconResId="@drawable/flag_id" layoutResId="@xml/qwerty"
-		id="c73b8390-5343-11e7-9598-0800200c9a66" defaultDictionaryLocale="id" description="QWERTY keyboard with indonesian diacritics" index="1"/>
+		id="c73b8390-5343-11e7-9598-0800200c9a66" defaultDictionaryLocale="id" description="Indonesian keyboard with local diacritics" index="1"/>
 </Keyboards>
