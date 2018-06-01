@@ -3,9 +3,9 @@
 ## Deskripsi
 
 AnySoftKeyboard adalah keyboard praktis untuk smartphone dan tablet
-Android. Proyek ini menawarkan dukungan Bahasa Indonesia yang gratis dan
-bebas dalam bentuk paket bahasa untuk AnySoftKeyboard. Dukungan ini
-dibuat oleh Azzam S.A dan dapat digunakan oleh siapapun tanpa biaya apapun.
+Android. Proyek ini menawarkan dukungan Bahasa Indonesia yang gratis
+dan bebas dalam bentuk paket bahasa untuk AnySoftKeyboard. Dukungan
+ini dapat digunakan oleh siapapun tanpa biaya apapun.
 
 ## Daftar Kata
 
