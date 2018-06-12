@@ -22,7 +22,7 @@ Instalasi dapat dilakukan dari aplikasi F-Droid dan Google Play.
        alt="Dapatkan di F-Droid" height="80">
 </a>
 
-<a href="#">
+<a href="https://play.google.com/store/apps/details?id=com.anysoftkeyboard.languagepack.indonesian">
   <img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png"
        alt="Dapatkan di Google Play" height="80">
 </a>
