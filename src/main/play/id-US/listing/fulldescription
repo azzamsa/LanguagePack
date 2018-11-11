@@ -8,6 +8,5 @@ sehingga memiliki presisi yang tinggi dalam memberikan rekomendasi kata kepada p
 Ini adalah paket bahasa untuk AnySoftKeyboard.
 Silahkan install AnySoftKeyboard, kemudian pilih Indonesian Keyboard dari AnySoftKeyboard's Settings -> Languages -> Keyboards menu.
 
-[1] Catatan: Nilai Statistik penggunan setiap kata pada kamus ini berdasarkan riset yang dilakukan oleh Ivan Lanin, Jim Geovedi dan Wicak Soegijoko.
-
-Silahkan kunjungi laman kami untuk informasi lebih lanjut.
+Silahkan kunjungi laman kami[1] untuk informasi lebih lanjut.
+[1]: https://github.com/azzamsa/LanguagePack/tree/Indonesian
