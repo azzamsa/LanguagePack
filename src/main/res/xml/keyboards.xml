@@ -9,4 +9,6 @@
      -->
 	<Keyboard nameResId="@string/keyboard_name" iconResId="@drawable/flag_id" layoutResId="@xml/qwerty"
 		id="c73b8390-5343-11e7-9598-0800200c9a66" defaultDictionaryLocale="id" description="Indonesian keyboard with local diacritics" index="1"/>
+	<Keyboard nameResId="@string/keyboard_name" iconResId="@drawable/flag_id" layoutResId="@xml/nia_qwerty"
+		id="d6218890-ec54-11e8-b568-0800200c9a66" defaultDictionaryLocale="id" description="Nias keyboard" index="1"/>
 </Keyboards>
